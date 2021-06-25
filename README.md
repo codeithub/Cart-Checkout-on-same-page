@@ -1,2 +1,3 @@
 # Cart-Checkout-on-same-page
-First, you need to add the “woocommerce_cart” shortcode to the Checkout page. In this way we’re telling WooCommerce we want to have the cart table on top and the checkout form below it.
+First, you need to add the “woocommerce_cart” shortcode to the Checkout page. In this way we’re telling WooCommerce we want to have the cart table on top and the checkout form below it.<br>
+https://www.codeithub.com/put-cart-checkout-on-the-same-page/
